@@ -1,7 +1,7 @@
 ### 👋 Hi there, My name is Ava!
-###### 😄 Pronouns: she/her'
-###### 🔭 I’m currently working on updating my personal website to use react.js while also working as a software engineering intern at Chevron
-###### 📫 How to reach me: avasdowney@gmail.com
+##### 😄 Pronouns: she/her
+##### 🔭 I’m currently working on updating my personal website to use react.js while also working as a software engineering intern at Chevron
+##### 📫 How to reach me: avasdowney@gmail.com
 
 <!--
 **avasdowney/avasdowney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
