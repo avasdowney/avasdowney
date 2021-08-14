@@ -1,13 +1,31 @@
 ### 👋 Hi there, My name is Ava!
-##### 😄 Pronouns: she/her
-##### 🔭 I’m currently working on updating my personal website to use react.js while also working as a software engineering intern at Chevron
-##### 📫 How to reach me: avasdowney@gmail.com
+
+## I'm a Junior at the University of Hartford and an aspiring Software Engineer
+
+- 😄 Pronouns: she/her
+- 🔭 I’m currently working on upgrading my [website][website] with react.js
+- 📫 How to reach me: Email me at avasdowney@gmail.com
+
+### Check out my GitHub stats
+
+[![Ava's GitHub stats](https://github-readme-stats.vercel.app/api?username=avasdowney&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avasdowney&hide=Assembly,CSS&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+### Connect with me
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[<img align="left" alt="Icons8 | Website" width="22px" src="https://img.icons8.com/ios/452/domain.png" />][website]
+
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+[website]: https://avasdowney.github.io/
+[linkedin]: https://www.linkedin.com/in/ava-downey-9b59931aa/
+[instagram]: https://www.instagram.com/ava_downey/
 
 <!--
-**avasdowney/avasdowney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
