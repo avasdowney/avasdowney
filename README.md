@@ -4,6 +4,7 @@
 
 - 😄 Pronouns: she/her
 - 🔭 I’m currently working on upgrading my [website][website] with react.js
+- ⚡ Fun fact: I am president of my schools oSTEM chapter
 - 📫 How to reach me: Email me at avasdowney@gmail.com
 
 ### Check out my GitHub stats
