@@ -11,7 +11,9 @@
 
 [![Ava's GitHub stats](https://github-readme-stats.vercel.app/api?username=avasdowney&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avasdowney&hide=Assembly,CSS&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avasdowney&langs_count=6&hide=Assembly,CSS&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=avasdowney)
 
 ### Connect with me
 
