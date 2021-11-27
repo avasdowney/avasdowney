@@ -13,7 +13,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avasdowney&langs_count=6&hide=Assembly,CSS&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=avasdowney)
+![](https://komarev.com/ghpvc/?username=avasdowney&color=blueviolet)
 
 ### Connect with me
 
