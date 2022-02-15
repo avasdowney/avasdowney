@@ -9,9 +9,9 @@
 
 ### Check out my GitHub stats
 
-[![Ava's GitHub stats](https://github-readme-stats.vercel.app/api?username=avasdowney&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Ava's GitHub stats](https://github-readme-stats.vercel.app/api?username=avasdowney&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avasdowney&langs_count=6&hide=Assembly,CSS,jupyter%20notebook&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avasdowney&langs_count=6&hide=Assembly,CSS,jupyter%20notebook&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=avasdowney&color=blueviolet)
 
@@ -24,7 +24,7 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[website]: https://avasdowney.github.io/
+[website]: https://avadowney.com/
 [linkedin]: https://www.linkedin.com/in/ava-downey-9b59931aa/
 [instagram]: https://www.instagram.com/ava_downey/
 
