@@ -3,17 +3,10 @@
 ## I'm a Junior at the University of Hartford and an aspiring Software Engineer
 
 - 😄 Pronouns: she/her
-- 🔭 I’m currently working on upgrading my [website][website] with react.js
 - ⚡ Fun fact: I am president of my schools oSTEM chapter
 - 📫 How to reach me: Email me at avasdowney@gmail.com
 
-### Check out my GitHub stats
-
-[![Ava's GitHub stats](https://github-readme-stats.vercel.app/api?username=avasdowney&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avasdowney&langs_count=6&hide=Assembly,jupyter%20notebook&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![](https://komarev.com/ghpvc/?username=avasdowney&color=blueviolet)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avasdowney&langs_count=6&hide=Assembly,jupyter%20notebook&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me
 
