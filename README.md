@@ -1,6 +1,6 @@
 ### 👋 Hi there, My name is Ava!
 
-## I'm a rising Senior at the University of Hartford and an aspiring Software Engineer
+## I'm a Senior at the University of Hartford
 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am vice president of my schools oSTEM chapter
