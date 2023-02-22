@@ -3,7 +3,7 @@
 ## I'm a Senior at the University of Hartford
 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am vice president of my schools oSTEM chapter
+- 🔭 I am interested in deep learning and machine learning
 - 📫 How to reach me: Email me at avasdowney@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avasdowney&langs_count=6&hide=Assembly,jupyter%20notebook&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
