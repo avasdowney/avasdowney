@@ -1,9 +1,9 @@
-### 👋 Hi there, My name is Ava!
+## 👋 Hi there, My name is Ava!
 
-## I'm a Senior at the University of Hartford
+### Welcome to my GitHub page.
 
 - 😄 Pronouns: she/her
-- 🔭 I am interested in deep learning and machine learning
+- 🔭 I am interested in AI/ML
 - 📫 How to reach me: Email me at avasdowney@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avasdowney&langs_count=6&hide=Assembly,jupyter%20notebook&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
